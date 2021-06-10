@@ -85,3 +85,16 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+footer {
+  margin-top: 20px;
+  height: 30px;
+}
+.credits {
+  line-height: 0 !important;
+  padding-top: 5px;
+}
+.copyright {
+  color: black !important;
+  text-align: center;
+}
